@@ -7,6 +7,9 @@ on:
   push:
     branches:
       - v4
+  repository_dispatch:
+    types:
+      - Changes-in-Content
   workflow_dispatch:
 
 jobs:
