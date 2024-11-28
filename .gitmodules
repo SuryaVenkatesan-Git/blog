@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = git@github.com:SuryaVenkatesan-Git/My-Records.git
