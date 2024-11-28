@@ -7,10 +7,10 @@ on:
   push:
     branches:
       - v4
+  workflow_dispatch:
   repository_dispatch:
     types:
       - Changes-in-Content
-  workflow_dispatch:
 
 jobs:
   build-and-test:
