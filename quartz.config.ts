@@ -29,7 +29,7 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#ffffff",
-          lightgray: "#DFD8C0",
+          lightgray: "#f2f2f2",
           gray: "#b8b8b8",
           darkgray: "#777777",
           dark: "#000000",
@@ -40,7 +40,7 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#000000",
-          lightgray: "#1D1D1D",
+          lightgray: "#292929",
           gray: "#444444",
           darkgray: "#E4E4E4",
           dark: "#ffffff",
@@ -60,8 +60,8 @@ const config: QuartzConfig = {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
-          dark: "github-dark",
+          light: "material-theme-lighter",
+          dark: "monokai",
         },
         keepBackground: false,
       }),
