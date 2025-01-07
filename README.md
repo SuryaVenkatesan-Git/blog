@@ -16,3 +16,17 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
     <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
   </a>
 </p>
+
+## License
+
+Following the license of
+[the original Quartz](https://github.com/jackyzha0/quartz), this blog
+has been made available under the [**MIT License**](./LICENSE). However, all
+posts and content are published under the
+[**CC BY License**](https://github.com/SuryaVenkatesan-Git/Posts/blob/main/LICENSE).
+
+---
+
+<div align="right">
+  <a href="#readme">Back to the Top</a>
+</div>
